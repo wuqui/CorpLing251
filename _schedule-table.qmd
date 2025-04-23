@@ -1,14 +1,3 @@
----
-title: "Overview"
-author: Quirin Würschinger, LMU Munich
----
-
-> Summer Semester 2025
-
-> Course materials: <https://wuqui.github.io/CorpLing251/>
-
-# Schedule
-
 | Nr  | Date   | Topic                                                     |
 |----:|--------|-----------------------------------------------------------|
 |   1 | 24.04. | [Organisation and introduction](01 - Organisation and introduction.md) |
