@@ -60,38 +60,38 @@ Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Languag
 
 ## Course Schedule
 
-| Nr  | Date   | Topic                                                     |
-|----:|--------|-----------------------------------------------------------|
-|   1 | 24.04. | [Organisation and introduction](01 - Organisation and introduction.md) |
-| --- | 01.05. | ---                                                       |
-|   2 | 08.05. | Introduction: Sketch Engine, concordancing, frequency     |
-|   3 | 15.05. | Lexis: innovation, diffusion, frequency analysis          |
-|   4 | 22.05. | Morphology: word formation, frequency analysis            |
-| --- | 29.05. | ---                                                       |
-|   5 | 05.06. | Morphology: meaning analysis, collocations, word sketches |
-|   6 | 12.06. | Creating corpora: principles, practice (Sketch Engine)    |
-| --- | 19.06. | ---                                                       |
-|   7 | 26.06. | Syntax: constructions, frequency analysis, CQL            |
-|   8 | 03.07. | Research projects and term papers: planning & resources   |
-|   9 | 10.07. | Linguistic variation: tag questions (Tottie 2006)         |
-|  10 | 17.07. | Language change: modal verbs (Hilpert 2015)               |
-|  11 | 24.07. | Language change: lexical innovation, projects             | 
+|  Nr | Date   | Topic                                                                  |     |
+| --: | ------ | ---------------------------------------------------------------------- | --- |
+|   1 | 24.04. | [Organisation and introduction](01 - Organisation and introduction.md) |     |
+| --- | 01.05. | ---                                                                    |     |
+|   2 | 08.05. | Introduction: Sketch Engine, concordancing, frequency                  |     |
+|   3 | 15.05. | Lexis: innovation, diffusion, frequency analysis                       |     |
+|   4 | 22.05. | Morphology: word formation, frequency analysis                         |     |
+| --- | 29.05. | ---                                                                    |     |
+|   5 | 05.06. | Morphology: meaning analysis, collocations, word sketches              |     |
+|   6 | 12.06. | Creating corpora: principles, practice (Sketch Engine)                 |     |
+| --- | 19.06. | ---                                                                    |     |
+|   7 | 26.06. | Syntax: constructions, frequency analysis, CQL                         |     |
+|   8 | 03.07. | Research projects and term papers: planning & resources                |     |
+|   9 | 10.07. | Linguistic variation: tag questions (Tottie 2006)                      |     |
+|  10 | 17.07. | Language change: modal verbs (Hilpert 2015)                            |     |
+|  11 | 24.07. | Language change: lexical innovation, projects                          |     |
 
 
 # Survey: experiences and expectations
 
 - Have you written a term paper yet?
-  - In linguistics?
-    - An empirical one?
-      - Using corpus data?
+    - In linguistics?
+        - An empirical one?
+            - Using corpus data?
 - Have you worked with corpus data?
-  - Which corpora have you worked with?
-  - Which corpus tools have you worked with? (e.g. AntConc, Sketch Engine, WordSmith, LancsBox)
-  - Which corpuslinguistic methods have you used?
+    - Which corpora have you worked with?
+    - Which corpus tools have you worked with? (e.g. AntConc, Sketch Engine, WordSmith, LancsBox)
+    - Which corpuslinguistic methods have you used?
 - What are you most interested in?
-  - Linguistic phenomena
-  - Datasets
-  - Methods
+    - Linguistic phenomena
+    - Datasets
+    - Methods
 
 
 # Introduction
@@ -109,9 +109,9 @@ Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Languag
     - This approach contrasts with more traditional linguistic methods that rely heavily on introspection and theoretical speculation (e.g. Chomsky).
 - Corpus linguistics has gained significant momentum in recent years, thanks to advances
     - in **data**
-	    - e.g. social media and web corpora like Twitter and Reddit
+        - e.g. social media and web corpora like Twitter and Reddit
     - **methods**
-	    - e.g. **social network analysis**, **machine learning**
+        - e.g. **social network analysis**, **machine learning**
 
 ### What is corpus linguistics good for?
 
@@ -123,22 +123,22 @@ Corpus linguistics is a **usage-based approach** to linguistic analysis.
 In this context, corpus linguistics provides a powerful toolset for investigating these patterns and regularities, offering several advantages:
 
 - **Authentic language data**
-    - Corpus linguistics relies on large and diverse collections of authentic texts, which represent real-world language use. 
+    - Corpus linguistics relies on large and diverse collections of authentic texts, which represent real-world language use.
     - This ensures that the patterns and structures uncovered through corpus analysis are grounded in genuine linguistic behavior, rather than relying on idealized or artificial examples.
 - **Quantitative approach**
-    - Corpus linguistics allows for the quantitative analysis of linguistic phenomena, such as **frequency counts** and **statistical measures**. 
+    - Corpus linguistics allows for the quantitative analysis of linguistic phenomena, such as **frequency counts** and **statistical measures**.
     - This enables researchers to identify and describe patterns and regularities that emerge from language use, supporting the usage-based claim that linguistic structure is shaped by frequency and distributional patterns in the input.
 - **Collocations** and **constructions**
-    - The usage-based approach posits that language is composed of form-meaning pairings, known as constructions, which range from morphemes and words to idiomatic expressions and complex syntactic structures. 
+    - The usage-based approach posits that language is composed of form-meaning pairings, known as constructions, which range from morphemes and words to idiomatic expressions and complex syntactic structures.
     - Corpus linguistics offers tools for identifying and analyzing collocations and constructions in large datasets, contributing to our understanding of the relationships between form, meaning, and use.
 - **Variability** and context sensitivity
-    - Corpus linguistics enables the examination of language use across different contexts, genres, and **registers**. 
+    - Corpus linguistics enables the examination of language use across different contexts, genres, and **registers**.
     - This allows researchers to investigate how linguistic features and structures vary and adapt to different situations, providing insights into the dynamic nature of language and its sensitivity to context, which is a key aspect of the usage-based approach.
 - **Language change** and development
-    - Corpus linguistics can be applied to **diachronic** and **synchronic** data, allowing researchers to track language change over time and compare different stages of language development. 
+    - Corpus linguistics can be applied to **diachronic** and **synchronic** data, allowing researchers to track language change over time and compare different stages of language development.
     - This helps to shed light on the emergence and evolution of linguistic structures, which is of particular interest to **usage-based theorists** who seek to explain language change as a result of cumulative changes in usage patterns.
 - Data-driven **language teaching** and **language learning**
-    - The usage-based approach emphasizes the importance of **exposure** to authentic **language input** in the acquisition process. 
+    - The usage-based approach emphasizes the importance of **exposure** to authentic **language input** in the acquisition process.
     - Corpus linguistics can inform the development of language teaching materials and methods, by providing insights into the most **frequent** and relevant structures, vocabulary, and collocations that learners need to acquire.
 
 ### Key concepts in corpus linguistics
@@ -149,8 +149,8 @@ In this context, corpus linguistics provides a powerful toolset for investigatin
     - Annotation refers to the process of adding metadata or linguistic information to a corpus, such as part-of-speech tags, syntactic structure, or semantic roles. This additional information can facilitate more in-depth and accurate analyses.
 - **Metadata**: data **about** language use on several levels
     - Corpus
-	    - Texts: author, text type, register, topic
-	        - Running words (**tokens**): **word class**, **lemmatization**
+        - Texts: author, text type, register, topic
+            - Running words (**tokens**): **word class**, **lemmatization**
 - **Concordance**
     - A concordance is a tool that allows researchers to search for specific words, phrases, or patterns in a corpus and display the results in context. This helps researchers to examine language patterns and identify trends across various texts.
 - **Collocations**
@@ -164,7 +164,6 @@ In this context, corpus linguistics provides a powerful toolset for investigatin
 - **Register**
     - Register refers to the language variety used in specific contexts or situations, characterized by particular linguistic features, such as vocabulary, grammar, and style. Examining registers can help researchers understand language variation and adaptation.
     - A type of **text type variation**
-
 
 ## The scope of this course
 
