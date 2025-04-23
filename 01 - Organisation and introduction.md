@@ -1,5 +1,9 @@
 # Organisation
 
+## Course materials
+
+<https://wuqui.github.io/CorpLing251/>
+
 ## Registration
 
 Open issues?
