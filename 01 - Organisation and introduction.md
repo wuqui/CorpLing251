@@ -58,7 +58,7 @@ O'Keeffe, Anne, and Michael McCarthy, eds. 2022. The Routledge Handbook of Corpu
 Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Language Science Press. https://doi.org/10.5281/zenodo.3735822.
 
 
-## Course Schedule
+## Course schedule
 
 |  Nr | Date   | Topic                                                                  |     |
 | --: | ------ | ---------------------------------------------------------------------- | --- |
@@ -96,7 +96,7 @@ Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Languag
 
 # Introduction
 
-## Introduction to **corpus linguistics**
+## Introduction to corpus linguistics
 
 ### What is corpus linguistics about?
 
