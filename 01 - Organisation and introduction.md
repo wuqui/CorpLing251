@@ -39,7 +39,7 @@ Overview (character counts include spaces):
 | MA        | WP 33.1    | 6    | thesis paper | 3,000    |    6,000 |
 | MA        | WP Ang 3.1 | 9    | term paper   | 30,000   |   37,500 |
 
-**Submission**: via email to [q.wuerschinger@lmu.de](mailto:q.wuerschinger@lmu.de) in PDF format.
+Submission: via email to [q.wuerschinger@lmu.de](mailto:q.wuerschinger@lmu.de) in PDF format.
 
 ## Course description
 
@@ -60,22 +60,22 @@ Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Languag
 
 ## Course schedule
 
-|  Nr | Date   | Topic                                                                  |     |
-| --: | ------ | ---------------------------------------------------------------------- | --- |
-|   1 | 24.04. | [Organisation and introduction](01 - Organisation and introduction.md) |     |
-| --- | 01.05. | ---                                                                    |     |
-|   2 | 08.05. | Introduction: Sketch Engine, concordancing, frequency                  |     |
-|   3 | 15.05. | Lexis: innovation, diffusion, frequency analysis                       |     |
-|   4 | 22.05. | Morphology: word formation, frequency analysis                         |     |
-| --- | 29.05. | ---                                                                    |     |
-|   5 | 05.06. | Morphology: meaning analysis, collocations, word sketches              |     |
-|   6 | 12.06. | Creating corpora: principles, practice (Sketch Engine)                 |     |
-| --- | 19.06. | ---                                                                    |     |
-|   7 | 26.06. | Syntax: constructions, frequency analysis, CQL                         |     |
-|   8 | 03.07. | Research projects and term papers: planning & resources                |     |
-|   9 | 10.07. | Linguistic variation: tag questions (Tottie 2006)                      |     |
-|  10 | 17.07. | Language change: modal verbs (Hilpert 2015)                            |     |
-|  11 | 24.07. | Language change: lexical innovation, projects                          |     |
+|  Nr | Date   | Topic                                                                  |
+| --: | ------ | ---------------------------------------------------------------------- |
+|   1 | 24.04. | [Organisation and introduction](01 - Organisation and introduction.md) |
+| --- | 01.05. | ---                                                                    |
+|   2 | 08.05. | Introduction: Sketch Engine, concordancing, frequency                  |
+|   3 | 15.05. | Lexis: innovation, diffusion, frequency analysis                       |
+|   4 | 22.05. | Morphology: word formation, frequency analysis                         |
+| --- | 29.05. | ---                                                                    |
+|   5 | 05.06. | Morphology: meaning analysis, collocations, word sketches              |
+|   6 | 12.06. | Creating corpora: principles, practice (Sketch Engine)                 |
+| --- | 19.06. | ---                                                                    |
+|   7 | 26.06. | Syntax: constructions, frequency analysis, CQL                         |
+|   8 | 03.07. | Research projects and term papers: planning & resources                |
+|   9 | 10.07. | Linguistic variation: tag questions (Tottie 2006)                      |
+|  10 | 17.07. | Language change: modal verbs (Hilpert 2015)                            |
+|  11 | 24.07. | Language change: lexical innovation, projects                          |
 
 
 # Survey: experiences and expectations
@@ -111,7 +111,7 @@ Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Languag
     - in **data**
         - e.g. social media and web corpora like Twitter and Reddit
     - **methods**
-        - e.g. **social network analysis**, **machine learning**
+        - e.g. social network analysis, machine learning
 
 ### What is corpus linguistics good for?
 
@@ -147,10 +147,6 @@ In this context, corpus linguistics provides a powerful toolset for investigatin
     - A corpus is a large, structured collection of texts that serves as the basis for linguistic analysis. Corpora can be general, representing a wide variety of language use, or specialized, focusing on specific genres, registers, or domains. Monitor corpora such as NOW can be used to track language use until the present day.
 - **Annotation**
     - Annotation refers to the process of adding metadata or linguistic information to a corpus, such as part-of-speech tags, syntactic structure, or semantic roles. This additional information can facilitate more in-depth and accurate analyses.
-- **Metadata**: data **about** language use on several levels
-    - Corpus
-        - Texts: author, text type, register, topic
-            - Running words (**tokens**): **word class**, **lemmatization**
 - **Concordance**
     - A concordance is a tool that allows researchers to search for specific words, phrases, or patterns in a corpus and display the results in context. This helps researchers to examine language patterns and identify trends across various texts.
 - **Collocations**
@@ -164,6 +160,10 @@ In this context, corpus linguistics provides a powerful toolset for investigatin
 - **Register**
     - Register refers to the language variety used in specific contexts or situations, characterized by particular linguistic features, such as vocabulary, grammar, and style. Examining registers can help researchers understand language variation and adaptation.
     - A type of **text type variation**
+- **Metadata**: data **about** language use on several levels:
+    - Corpus
+        - Texts: author, text type, register, topic
+            - Running words (**tokens**): **word class**, **lemmatization**
 
 ## The scope of this course
 

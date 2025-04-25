@@ -2,9 +2,6 @@
 title: "Overview"
 author: Quirin Würschinger, LMU Munich
 ---
-
-> Summer Semester 2025
-
 # Schedule
 
 |  Nr | Date   | Topic                                                                  |
