@@ -1,5 +1,5 @@
 ---
-title: "Overview"
+title: "Seminar Corpus Linguistics"
 author: Quirin Würschinger, LMU Munich
 ---
 # Schedule
