@@ -1,3 +1,7 @@
+---
+title: "Organisation and introduction"
+---
+
 # Organisation
 
 ## Course materials
@@ -62,7 +66,7 @@ Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Languag
 
 |  Nr | Date   | Topic                                                                  |
 | --: | ------ | ---------------------------------------------------------------------- |
-|   1 | 24.04. | [Organisation and introduction](01 - Organisation and introduction.md) |
+|   1 | 24.04. | [Organisation and introduction](01-organisation-and-introduction.md) |
 | --- | 01.05. | ---                                                                    |
 |   2 | 08.05. | Introduction: Sketch Engine, concordancing, frequency                  |
 |   3 | 15.05. | Lexis: innovation, diffusion, frequency analysis                       |
@@ -191,4 +195,4 @@ In this context, corpus linguistics provides a powerful toolset for investigatin
 ## Introduction to **Sketch Engine**
 
 - Website: <https://www.sketchengine.eu/>
-- Tutorial: [Sketch Engine Tutorial](https://wuqui.github.io/SkEtut/)
+- Tutorial: [Sketch Engine Tutorial](https://wuqui.github.io/SkEtut/) 
