@@ -68,7 +68,7 @@ Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Languag
 | --: | ------ | ---------------------------------------------------------------------- |
 |   1 | 24.04. | [Organisation and introduction](01-organisation-and-introduction.md) |
 | --- | 01.05. | ---                                                                    |
-|   2 | 08.05. | Introduction: Sketch Engine, concordancing, frequency                  |
+|   2 | 08.05. | [Introduction: Sketch Engine, concordancing, frequency](02-sketch-engine-concordancing-frequency.md) |
 |   3 | 15.05. | Lexis: innovation, diffusion, frequency analysis                       |
 |   4 | 22.05. | Morphology: word formation, frequency analysis                         |
 | --- | 29.05. | ---                                                                    |
