@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Seminar Corpus Linguistics",
-    "section": "",
-    "text": "1 Schedule\n\n\n\nNr\nDate\nTopic\n\n\n\n\n1\n24.04.\nOrganisation and introduction\n\n\n—\n01.05.\n—\n\n\n2\n08.05.\nSketch Engine, concordancing, frequency\n\n\n3\n15.05.\nLexis: innovation, diffusion, frequency\n\n\n4\n22.05.\nMorphology, word-formation, frequency\n\n\n—\n29.05.\n—\n\n\n5\n05.06.\nMorphology: meaning analysis, collocations, word sketches\n\n\n6\n12.06.\nCreating corpora: principles, practice (Sketch Engine)\n\n\n—\n19.06.\n—\n\n\n7\n26.06.\nSyntax: constructions, frequency analysis, CQL\n\n\n8\n03.07.\nResearch projects and term papers: planning & resources\n\n\n9\n10.07.\nLinguistic variation: tag questions (Tottie 2006)\n\n\n10\n17.07.\nLanguage change: modal verbs (Hilpert 2015)\n\n\n11\n24.07.\nLanguage change: lexical innovation, projects"
-  },
-  {
-    "objectID": "02-sketch-engine-concordancing-frequency.html",
-    "href": "02-sketch-engine-concordancing-frequency.html",
-    "title": "Sketch Engine, concordancing, frequency",
-    "section": "",
-    "text": "https://wuqui.github.io/SkEtut/\nI can can a can."
-  },
-  {
     "objectID": "01-organisation-and-introduction.html",
     "href": "01-organisation-and-introduction.html",
     "title": "Organisation and introduction",
@@ -77,6 +63,13 @@
     "text": "3.3 Introduction to Sketch Engine\n\nWebsite: https://www.sketchengine.eu/\nTutorial: Sketch Engine Tutorial"
   },
   {
+    "objectID": "02-sketch-engine-concordancing-frequency.html",
+    "href": "02-sketch-engine-concordancing-frequency.html",
+    "title": "Sketch Engine, concordancing, frequency",
+    "section": "",
+    "text": "https://wuqui.github.io/SkEtut/"
+  },
+  {
     "objectID": "02-sketch-engine-concordancing-frequency.html#concordancing",
     "href": "02-sketch-engine-concordancing-frequency.html#concordancing",
     "title": "Sketch Engine, concordancing, frequency",
@@ -88,6 +81,13 @@
     "href": "02-sketch-engine-concordancing-frequency.html#frequency-analysis",
     "title": "Sketch Engine, concordancing, frequency",
     "section": "2.2 Frequency analysis",
-    "text": "2.2 Frequency analysis\n\nIn the enTenTen21 corpus, identify the most common adjectives in the pattern ADJ SMARTPHONE.\nIdentify which words have exhibited the highest increase in usage frequency by using the Trends feature in the English Historical Book Collection (EEBO, ECCO, Evans) corpus.\n\n\nNote that the trends feature is also available for more recent data with the English Trends (2014–today) corpus.\n\n\n\nGet an overview of the frequency increase of the word which has shown the most positive trend."
+    "text": "2.2 Frequency analysis\n\nIn the enTenTen21 corpus, identify the most common adjectives in the pattern ADJ SMARTPHONE.\n\n![[Pasted image 20250514222525.png]]\nhttps://ske.li/8fy\n\nIdentify which words have exhibited the highest increase in usage frequency by using the Trends feature in the English Historical Book Collection (EEBO, ECCO, Evans) corpus.\n\n\nNote that the trends feature is also available for more recent data with the English Trends (2014–today) corpus.\n\n\n\nGet an overview of the frequency increase of the word which has shown the most positive trend."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seminar Corpus Linguistics",
+    "section": "",
+    "text": "1 Schedule\n\n\n\nNr\nDate\nTopic\n\n\n\n\n1\n24.04.\nOrganisation and introduction\n\n\n—\n01.05.\n—\n\n\n2\n08.05.\nSketch Engine, concordancing, frequency\n\n\n3\n15.05.\n[[03 - Lexis - innovation, diffusion, frequency|Lexis: innovation, diffusion, frequency]]\n\n\n4\n22.05.\nMorphology, word-formation, frequency\n\n\n—\n29.05.\n—\n\n\n5\n05.06.\nMorphology: meaning analysis, collocations, word sketches\n\n\n6\n12.06.\nCreating corpora: principles, practice (Sketch Engine)\n\n\n—\n19.06.\n—\n\n\n7\n26.06.\nSyntax: constructions, frequency analysis, CQL\n\n\n8\n03.07.\nResearch projects and term papers: planning & resources\n\n\n9\n10.07.\nLinguistic variation: tag questions (Tottie 2006)\n\n\n10\n17.07.\nLanguage change: modal verbs (Hilpert 2015)\n\n\n11\n24.07.\nLanguage change: lexical innovation, projects"
   }
 ]
