@@ -11,7 +11,7 @@
     "href": "02-sketch-engine-concordancing-frequency.html",
     "title": "Sketch Engine, concordancing, frequency",
     "section": "",
-    "text": "https://wuqui.github.io/SkEtut/"
+    "text": "https://wuqui.github.io/SkEtut/\nI can can a can."
   },
   {
     "objectID": "01-organisation-and-introduction.html",
@@ -81,13 +81,13 @@
     "href": "02-sketch-engine-concordancing-frequency.html#concordancing",
     "title": "Sketch Engine, concordancing, frequency",
     "section": "2.1 Concordancing",
-    "text": "2.1 Concordancing\nin the enTenTen21 corpus\n\nSearch for attestations of the word smartphone. \nSearch for attestations of the pattern ADJ + SMARTPHONE (i.e. the lemmatized word type (new smartphone, old smartphones)). \nSearch for attestations of the pattern TAKE a LOOK (e.g. take a look, takes a look)."
+    "text": "2.1 Concordancing\nin the enTenTen21 corpus\n\nSearch for attestations of the word smartphone.\n\n\n\nSearch for attestations of the pattern ADJ + SMARTPHONE (i.e. the lemmatized word type (new smartphone, old smartphones)).\n\n\n\nSearch for attestations of the pattern TAKE a LOOK (e.g. take a look, takes a look)."
   },
   {
     "objectID": "02-sketch-engine-concordancing-frequency.html#frequency-analysis",
     "href": "02-sketch-engine-concordancing-frequency.html#frequency-analysis",
     "title": "Sketch Engine, concordancing, frequency",
     "section": "2.2 Frequency analysis",
-    "text": "2.2 Frequency analysis\n\nIn the enTenTen21 corpus, identify the most common adjectives in the pattern ADJ SMARTPHONE.\nIdentify which words have exhibited the highest increase in usage frequency by using the Trends feature in the English Historical Book Collection (EEBO, ECCO, Evans) corpus. \n\nNote that the trends feature is also available for more recent data with the English Trends (2014–today) corpus. \nGet an overview of the frequency increase of the word which has shown the most positive trend."
+    "text": "2.2 Frequency analysis\n\nIn the enTenTen21 corpus, identify the most common adjectives in the pattern ADJ SMARTPHONE.\nIdentify which words have exhibited the highest increase in usage frequency by using the Trends feature in the English Historical Book Collection (EEBO, ECCO, Evans) corpus.\n\n\nNote that the trends feature is also available for more recent data with the English Trends (2014–today) corpus.\n\n\n\nGet an overview of the frequency increase of the word which has shown the most positive trend."
   }
 ]
