@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "03_lexis-innovation-diffusion-frequency.html",
+    "href": "03_lexis-innovation-diffusion-frequency.html",
+    "title": "Lexis, innovation, diffusion, and frequency",
+    "section": "",
+    "text": "society continually changes as new practices and products emerge (e.g. smartphones)\nthese changes typically first manifest themselves in language on the level of lexis in the form of neologisms (e.g. the words smartphone or iphone)\nWhich recent neologisms can you think of?\nknowledge of words is conventional: speakers learn form-meaning pairings\n\nModel of the Linguistic Sign (de Saussure 1916)\n\n\n\n\nimage.png\n\n\n\n\n\n\n\n\n\n\nThe S-curve model is relevant to linguistic innovation, diffusion, and language change.\n Integration of Milroy’s and Rogers’ model of diffusion stages into an S-curve. (Kerremans 2015: p. 65)\n\n\n\n\nthe more frequently a word is used, the more likely it is\n\nthat speakers have stored it in their mental lexicon (entrenchment)\nthat it is part of the conventional language system of a language (conventionalization)\n\nUsage, entrenchment, and conventionalization are interconnected.\n\n (p. 4)\n\n\n\n\n\nFrequency as an indicator for entrenchment and conventionality (Stefanowitsch and Flach 2017).\n\ncorpus-as-input: language used in corpora represents potential exposure to speakers\ncorpus-as-output: languaged used by speakers in corpora represents potential degrees of entrenchment\n\n\n\n\n\ntypes of linguistic variation and diffusion\n\n\n\n\nimage.png\n\n\n\ndimensions of diffusion\n\nacross speakers and communities\nacross text types\n\nexamples for different degrees of diffusion\n\n\n\n\nimage.png"
+  },
+  {
+    "objectID": "03_lexis-innovation-diffusion-frequency.html#lexical-innovation-and-diffusion",
+    "href": "03_lexis-innovation-diffusion-frequency.html#lexical-innovation-and-diffusion",
+    "title": "Lexis, innovation, diffusion, and frequency",
+    "section": "",
+    "text": "society continually changes as new practices and products emerge (e.g. smartphones)\nthese changes typically first manifest themselves in language on the level of lexis in the form of neologisms (e.g. the words smartphone or iphone)\nWhich recent neologisms can you think of?\nknowledge of words is conventional: speakers learn form-meaning pairings\n\nModel of the Linguistic Sign (de Saussure 1916)\n\n\n\n\nimage.png"
+  },
+  {
+    "objectID": "03_lexis-innovation-diffusion-frequency.html#theoretical-framework",
+    "href": "03_lexis-innovation-diffusion-frequency.html#theoretical-framework",
+    "title": "Lexis, innovation, diffusion, and frequency",
+    "section": "",
+    "text": "The S-curve model is relevant to linguistic innovation, diffusion, and language change.\n Integration of Milroy’s and Rogers’ model of diffusion stages into an S-curve. (Kerremans 2015: p. 65)\n\n\n\n\nthe more frequently a word is used, the more likely it is\n\nthat speakers have stored it in their mental lexicon (entrenchment)\nthat it is part of the conventional language system of a language (conventionalization)\n\nUsage, entrenchment, and conventionalization are interconnected.\n\n (p. 4)\n\n\n\n\n\nFrequency as an indicator for entrenchment and conventionality (Stefanowitsch and Flach 2017).\n\ncorpus-as-input: language used in corpora represents potential exposure to speakers\ncorpus-as-output: languaged used by speakers in corpora represents potential degrees of entrenchment\n\n\n\n\n\ntypes of linguistic variation and diffusion\n\n\n\n\nimage.png\n\n\n\ndimensions of diffusion\n\nacross speakers and communities\nacross text types\n\nexamples for different degrees of diffusion\n\n\n\n\nimage.png"
+  },
+  {
+    "objectID": "03_lexis-innovation-diffusion-frequency.html#frequency-analysis",
+    "href": "03_lexis-innovation-diffusion-frequency.html#frequency-analysis",
+    "title": "Lexis, innovation, diffusion, and frequency",
+    "section": "2.1 Frequency analysis",
+    "text": "2.1 Frequency analysis\n\n2.1.1 Raw frequency\n\nfrequency distribution\n\nmost frequent\n\n\n\n\nimage.png\n\n\n\nmedian\n\n\n\n\nimage.png\n\n\n\nleast frequent\n\n\n\n\nimage.png\n\n\n\n\n\n\n\n2.1.2 Frequency over time\n\nusing the English Trends (2014–today) corpus\n\nexample: blockchain\n\ntimeline view\n\n\n\n\nimage.png\n\n\n\nfrequency view\n\n\n\n\nimage.png\n\n\n\n\n\nimage.png\n\n\n\n\n\n\n\n\n2.1.3 Frequency across text types\n\nusing the enTenTen21 corpus\n\nexample: alt-right\n\ndistribution across Topic text type\n\n\n\n\nimage.png"
+  },
+  {
+    "objectID": "03_lexis-innovation-diffusion-frequency.html#case-study-lexical-innovation",
+    "href": "03_lexis-innovation-diffusion-frequency.html#case-study-lexical-innovation",
+    "title": "Lexis, innovation, diffusion, and frequency",
+    "section": "2.2 Case study: Lexical innovation",
+    "text": "2.2 Case study: Lexical innovation\nUsing the case study words from Würschinger (2021):\n\nupskill\nhyperlocal\nsolopreneur\nalt-right\nalt-left\npoppygate\n\n\n2.2.1 Tasks\n\nIn the English Trends (2014–today) corpus:\n\ndetermine total frequency for each word\n\nexample for alt-right:\n\nquery: [lemma=\"alt-right\"]\nabsolute total frequency: 95,094\nrelative total frequency: 0.96 per million words/tokens (pmw)\n\n\nidentify the year of highest usage\n\nsort by year\nuse Frequency (raw) and Relative in text type (per million words)\n\n\nIn the enTenTen21 corpus:\n\ndetermine in which Genre each word was used most frequently\n\nexample for alt-right:\n\n\n\n\nimage.png\n\n\n\n\n\nCompare results:\n\nwhich words show highest/lowest degrees of conventionality?\nfor which words is there a discrepancy to the results on Twitter?\n\n\n\n\nimage.png"
+  },
+  {
     "objectID": "01-organisation-and-introduction.html",
     "href": "01-organisation-and-introduction.html",
     "title": "Organisation and introduction",
@@ -88,6 +123,6 @@
     "href": "index.html",
     "title": "Seminar Corpus Linguistics",
     "section": "",
-    "text": "1 Schedule\n\n\n\nNr\nDate\nTopic\n\n\n\n\n1\n24.04.\nOrganisation and introduction\n\n\n—\n01.05.\n—\n\n\n2\n08.05.\nSketch Engine, concordancing, frequency\n\n\n3\n15.05.\n[[03 - Lexis - innovation, diffusion, frequency|Lexis: innovation, diffusion, frequency]]\n\n\n4\n22.05.\nMorphology, word-formation, frequency\n\n\n—\n29.05.\n—\n\n\n5\n05.06.\nMorphology: meaning analysis, collocations, word sketches\n\n\n6\n12.06.\nCreating corpora: principles, practice (Sketch Engine)\n\n\n—\n19.06.\n—\n\n\n7\n26.06.\nSyntax: constructions, frequency analysis, CQL\n\n\n8\n03.07.\nResearch projects and term papers: planning & resources\n\n\n9\n10.07.\nLinguistic variation: tag questions (Tottie 2006)\n\n\n10\n17.07.\nLanguage change: modal verbs (Hilpert 2015)\n\n\n11\n24.07.\nLanguage change: lexical innovation, projects"
+    "text": "1 Schedule\n\n\n\nNr\nDate\nTopic\n\n\n\n\n1\n24.04.\nOrganisation and introduction\n\n\n—\n01.05.\n—\n\n\n2\n08.05.\nSketch Engine, concordancing, frequency\n\n\n3\n15.05.\nLexis: innovation, diffusion, frequency\n\n\n4\n22.05.\nMorphology, word-formation, frequency\n\n\n—\n29.05.\n—\n\n\n5\n05.06.\nMorphology: meaning analysis, collocations, word sketches\n\n\n6\n12.06.\nCreating corpora: principles, practice (Sketch Engine)\n\n\n—\n19.06.\n—\n\n\n7\n26.06.\nSyntax: constructions, frequency analysis, CQL\n\n\n8\n03.07.\nResearch projects and term papers: planning & resources\n\n\n9\n10.07.\nLinguistic variation: tag questions (Tottie 2006)\n\n\n10\n17.07.\nLanguage change: modal verbs (Hilpert 2015)\n\n\n11\n24.07.\nLanguage change: lexical innovation, projects"
   }
 ]
