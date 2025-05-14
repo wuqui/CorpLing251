@@ -23,7 +23,7 @@ in the **enTenTen21** corpus
 ## Frequency analysis
 
 - In the **enTenTen21** corpus, identify the most common adjectives in the pattern `ADJ SMARTPHONE`.
-	- ![[Pasted image 20250514222525.png]]
+	- ![](att/PastedImage20250514222525.png)
 	- https://ske.li/8fy
 - Identify which words have exhibited the highest increase in usage frequency by using the `Trends` feature in the **English Historical Book Collection (EEBO, ECCO, Evans)** corpus.
     - ![](att/image_1714687353581_0.png)
