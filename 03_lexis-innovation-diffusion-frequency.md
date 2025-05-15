@@ -6,12 +6,15 @@ title: "Lexis, innovation, diffusion, and frequency"
 
 ## Lexical innovation and diffusion
 
-- society continually changes as new practices and products emerge (e.g. smartphones)
-- these changes typically first manifest themselves in language on the level of lexis in the form of neologisms (e.g. the words *smartphone* or *iphone*)
+- Society continually changes as new practices and products emerge (e.g. smartphones)
+- These changes typically first manifest themselves in language on the level of lexis in the form of neologisms (e.g. the words *smartphone* or *iphone*).
+
 - Which recent neologisms can you think of?
-- knowledge of words is conventional: speakers learn form-meaning pairings
-    - Model of the Linguistic Sign (de Saussure 1916)
-        - ![image.png](att/image_1714689744620_0.png)
+
+- Knowledge of words is conventional: speakers learn form-meaning pairings.
+
+- Model of the Linguistic Sign (de Saussure 1916)
+	- ![](att/image_1714689744620_0.png)
 
 ## Theoretical framework
 
@@ -19,17 +22,18 @@ title: "Lexis, innovation, diffusion, and frequency"
 
 The S-curve model is relevant to linguistic innovation, diffusion, and language change.
 
-![Kerremans2015_s-curve-model.png](att/Kerremans2015_s-curve-model_1682419531277_0.png)
+![](att/Kerremans2015_s-curve-model_1682419531277_0.png)
+
 Integration of Milroy's and Rogers' model of diffusion stages into an S-curve. (Kerremans 2015: p. 65)
 
 ### The Entrenchment and Conventionalization Model (Schmid 2015, Schmid 2020)
 
-- the more frequently a word is used, the more likely it is
-	- that speakers have stored it in their mental lexicon (entrenchment)
-	- that it is part of the conventional language system of a language (conventionalization)
+- The more frequently a word is used, the more likely it is
+	- that speakers have stored it in their mental lexicon (entrenchment) and
+	- that it is part of the conventional language system of a language (conventionalization).
 
 - Usage, entrenchment, and conventionalization are interconnected.
-	- ![image.png](att/image_1682419412486_0.png)
+	- ![](att/image_1682419412486_0.png)
         (p. 4)
 
 ### Operationalization
@@ -42,49 +46,67 @@ Frequency as an indicator for entrenchment and conventionality (Stefanowitsch an
 ### Pathways of diffusion
 
 - types of linguistic variation and diffusion
-    - ![image.png](att/image_1683027250792_0.png)
+    - ![](att/image_1683027250792_0.png)
 
 - dimensions of diffusion
     - across speakers and communities
     - across text types
 
 - examples for different degrees of diffusion
-    - ![image.png](att/image_1683026241397_0.png)
+    - ![](att/image_1683026241397_0.png)
 
-# Practice
+# Empirical analyses of diffusion based on frequency
 
-## Frequency analysis
+Würschinger, Quirin. 2021. 'Social Networks of Lexical Innovation. Investigating the Social Dynamics of Diffusion of Neologisms on Twitter'. Frontiers in Artificial Intelligence 4:106. https://doi.org/10.3389/frai.2021.648583.
 
-### Raw frequency
+## Total frequency
 
 - frequency distribution
     - most frequent
-        - ![image.png](att/image_1683026504246_0.png)
+        - ![](att/image_1683026504246_0.png)
     - median
-        - ![image.png](att/image_1683026540022_0.png)
+        - ![](att/image_1683026540022_0.png)
     - least frequent
-        - ![image.png](att/image_1683026561436_0.png)
+        - ![](att/image_1683026561436_0.png)
 
-### Frequency over time
+## Cumulative frequency
+
+![](att/Pasted image 20250515085146.png)
+
+## Temporal dynamics of use
+
+![](att/Pasted image 20250515085249.png)
+
+## Volatility
+
+![](att/Pasted image 20250515085407.png)
+
+## Social dynamics of diffusion
+
+![](att/Pasted image 20250515085520.png)
+
+# Investigating frequency using Sketch Engine
+
+## Frequency over time
 
 - using the English Trends (2014–today) corpus
     - example: *blockchain*
         - timeline view
-            - ![image.png](att/image_1714690450446_0.png)
+            - ![](att/image_1714690450446_0.png)
         - frequency view
-            - ![image.png](att/image_1714692577767_0.png)
-            - ![image.png](att/image_1714692620762_0.png)
+            - ![](att/image_1714692577767_0.png)
+            - ![](att/image_1714692620762_0.png)
 
-### Frequency across text types
+## Frequency across text types
 
 - using the enTenTen21 corpus
     - example: *alt-right*
         - distribution across `Topic` text type
-            - ![image.png](att/image_1714692509156_0.png)
+            - ![](att/image_1714692509156_0.png)
 
-## Case study: Lexical innovation
+## Practice: Lexical innovation
 
-Using the case study words from Würschinger (2021):
+Use the above case study words:
 
 - *upskill*
 - *hyperlocal*
@@ -108,9 +130,9 @@ Using the case study words from Würschinger (2021):
 2. In the enTenTen21 corpus:
     - determine in which `Genre` each word was used most frequently
         - example for *alt-right*:
-            - ![image.png](att/image_1683623788788_0.png)
+            - ![](att/image_1683623788788_0.png)
 
 3. Compare results:
-    - which words show highest/lowest degrees of conventionality?
-    - for which words is there a discrepancy to the results on Twitter?
-        - ![image.png](att/image_1683026579868_0.png)
+    - Which words show highest/lowest degrees of conventionality?
+    - For which words is there a discrepancy to the results on Twitter?
+        - ![](att/image_1683026579868_0.png)
