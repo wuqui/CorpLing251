@@ -10,11 +10,32 @@ title: "Lexis, innovation, diffusion, and frequency"
 - These changes typically first manifest themselves in language on the level of lexis in the form of neologisms (e.g. the words *smartphone* or *iphone*).
 
 - Which recent neologisms can you think of?
+	- *to google*
+	- *staycation*, *baecation* 
+	- *medfluencer* 
+	- *byelingual* 
+	- *glamping* 
+	- *hangry* 
+	- *influencer* 
+	- *gender pay gap* 
+	- *kindergarchy* 
+	- *cringe*
+	- *social distancing*, *frontline worker*   
+	- *millenium bug*
+	- *to furlough*, *dotard*   
+- patterns
+	- motivations
+		- communicative need
+		- describe a feeling/phenomenon
+		- one-off
+		- appeal
+	- forms
+		- blending
 
 - Knowledge of words is conventional: speakers learn form-meaning pairings.
 
 - Model of the Linguistic Sign (de Saussure 1916)
-	- ![](att/image_1714689744620_0.png)
+	- ![[att/image_1714689744620_0.png]]
 
 ## Theoretical framework
 
@@ -22,7 +43,7 @@ title: "Lexis, innovation, diffusion, and frequency"
 
 The S-curve model is relevant to linguistic innovation, diffusion, and language change.
 
-![](att/Kerremans2015_s-curve-model_1682419531277_0.png)
+![[att/Kerremans2015_s-curve-model_1682419531277_0.png]]
 
 Integration of Milroy's and Rogers' model of diffusion stages into an S-curve. (Kerremans 2015: p. 65)
 
@@ -30,7 +51,7 @@ Integration of Milroy's and Rogers' model of diffusion stages into an S-curve. (
 
 - The more frequently a word is used, the more likely it is
 	- that speakers have stored it in their mental lexicon (entrenchment) and
-	- that it is part of the conventional language system of a language (conventionalization).
+	- that it is part of the conventional language system (conventionalization).
 
 - Usage, entrenchment, and conventionalization are interconnected.
 	- ![](att/image_1682419412486_0.png)
@@ -41,7 +62,7 @@ Integration of Milroy's and Rogers' model of diffusion stages into an S-curve. (
 Frequency as an indicator for entrenchment and conventionality (Stefanowitsch and Flach 2017).
 
 - **corpus-as-input:** language used in corpora represents potential exposure to speakers
-- **corpus-as-output:** languaged used by speakers in corpora represents potential degrees of entrenchment
+- **corpus-as-output:** language used by speakers in corpora represents potential degrees of entrenchment
 
 ### Pathways of diffusion
 
@@ -71,19 +92,19 @@ Würschinger, Quirin. 2021. 'Social Networks of Lexical Innovation. Investigatin
 
 ## Cumulative frequency
 
-![](att/Pasted image 20250515085146.png)
+![](att/Pasted-image-20250515085146.png)
 
 ## Temporal dynamics of use
 
-![](att/Pasted image 20250515085249.png)
+![](att/Pasted-image-20250515085249.png)
 
 ## Volatility
 
-![](att/Pasted image 20250515085407.png)
+![](att/Pasted-image-20250515085407.png)
 
 ## Social dynamics of diffusion
 
-![](att/Pasted image 20250515085520.png)
+![](att/Pasted-image-20250515085520.png)
 
 # Investigating frequency using Sketch Engine
 
