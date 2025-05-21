@@ -10,7 +10,7 @@ author: Quirin Würschinger, LMU Munich
 | 01.05. | ---                                                                           |
 | 08.05. | [Sketch Engine](02-sketch-engine-concordancing-frequency.md)                  |
 | 15.05. | [Lexis: innovation and diffusion](03_lexis-innovation-diffusion-frequency.md) |
-| 22.05. | Morphology and word-formation                                                 |
+| 22.05. | [Morphology and word-formation](04_morphology-and-word-formation.md)             |
 | 29.05. | ---                                                                           |
 | 05.06. | Morphology: meaning analysis, collocations, word sketches                     |
 | 12.06. | Creating corpora: principles, practice (Sketch Engine)                        |
