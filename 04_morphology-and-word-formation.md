@@ -39,7 +39,7 @@ Analyze the word-formation processes involved in the following complex words:
 
 Example: morphological stemma of *disclaimers*
 
-<!-- ![](att/image_1715356109774_0.png) -->
+![](att/image_1715356109774_0.png)
 
 # A corpuslinguistic study of clipping (Hilpert 2023)
 
