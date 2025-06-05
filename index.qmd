@@ -12,7 +12,7 @@ author: Quirin Würschinger, LMU Munich
 | 15.05. | [Lexis: innovation and diffusion](03_lexis-innovation-diffusion-frequency.md) |
 | 22.05. | [Morphology and word-formation](04_morphology-and-word-formation.md)          |
 | 29.05. | ---                                                                           |
-| 05.06. | Morphology: meaning analysis, collocations, word sketches                     |
+| 05.06. | [Morphology: meaning analysis, collocations, word sketches](05_morphology-and-word-formation-2.md)                     |
 | 12.06. | Creating corpora: principles, practice (Sketch Engine)                        |
 | 19.06. | ---                                                                           |
 | 26.06. | Syntax: constructions, frequency analysis, CQL                                |
