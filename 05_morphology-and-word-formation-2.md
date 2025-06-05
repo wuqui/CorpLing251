@@ -62,8 +62,6 @@ Sample of 50 English clippings and their corresponding source words.
 
 Collocation analysis to investigate semantic profiles across contexts
 
-![](att/image_1683630755727_0.png)
-
 ![](att/image_1683630867757_0.png)
 
 Word embeddings to compare distributional profiles across text types and individual clippings
