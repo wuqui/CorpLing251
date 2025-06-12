@@ -1,0 +1,32 @@
+---
+description: editing and formatting
+globs: 
+alwaysApply: false
+---
+# Code/Text Edits
+
+- When output is long and mostly identical, show only the lines that need to be changed, and `// ... existing code ...` markers in between
+- When the user asks for formatting, leave the content as is
+- Consolidate multi-line bullets when possible:
+    ```markdown
+    - **example**: detail A, detail B (with parenthetical notes)
+    ```
+
+# Formatting Rules
+
+- Bullet points:
+    - No initial capitals unless full sentences
+    - Sub-bullets: 4-space indentation
+    - Prefer `-` for bullets in Markdown over, e.g. `*`
+- Examples: 
+    - Keep *asterisks* for linguistic forms (object language)
+    - Preserve code formatting (e.g. `INFLUENCER_n`)
+- Headings:
+    - Add empty lines before and after all headings
+    - This applies to all heading levels (#, ##, ###, ####)
+    - Use H1 (#) for main sections when using title frontmatter
+- Indentation:
+    - Use 4 spaces for each level of indentation in bullet points
+    - Note: Automated indentation changes may not work reliably; manual adjustment may be needed
+- Quotes:
+    - Replace Markdown blockquotes (`>`) with regular quoted paragraphs (e.g. "text...").

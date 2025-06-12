@@ -1,0 +1,20 @@
+---
+description: workflow and assets
+globs: 
+alwaysApply: false
+---
+# Image Handling
+
+- Store images in the `att` folder
+- Use minimal image references in markdown: `![](att/filename.png)`
+- Remove image descriptions from markdown image references
+- Use hyphens instead of spaces in image filenames
+- Convert Obsidian `![[wikilinks]]` to Quarto-compatible Markdown links.
+    - Rename files with spaces to use hyphens.
+    - **Example**: `![[Pasted image 123.png]]` becomes `![](att/Pasted-image-123.png)`
+
+# Quarto Workflow
+
+- Always preview changes to `.qmd` or `.md` files intended for Quarto output.
+- After previewing and confirming, render the file(s) to ensure output is up-to-date.
+- Stage, commit, and push all relevant source files and rendered output.

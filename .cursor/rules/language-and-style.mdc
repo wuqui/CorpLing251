@@ -1,0 +1,10 @@
+---
+description: Rules for language, spelling, and prose style
+globs: 
+alwaysApply: false
+---
+# Language & Style
+
+- Use British English spellings (e.g. "optimisation", "colour")
+- Apply semantic line breaks in prose (break lines at natural clause/phrase boundaries)
+- Prefer curly quotes " " over straight quotes "

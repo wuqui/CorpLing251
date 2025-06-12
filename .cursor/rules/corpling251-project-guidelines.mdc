@@ -1,0 +1,31 @@
+---
+description: project guidelines
+globs: 
+alwaysApply: false
+---
+# Current Project: CorpLing251
+
+- Course on Corpus Linguistics
+- Converting course materials from Logseq to Obsidian format
+- File structure:
+    - Main content files: `XX_topic.md`
+    - Assets: `att/` folder
+- Content includes:
+    - Theory sections
+    - Practice exercises
+    - References to academic sources
+    - Examples with linguistic forms in *italics*
+- Recent work:
+    - Converting lexis and lexical innovation materials
+    - Adapting image references and paths
+    - Maintaining academic formatting and citations 
+    - Prepared morphology and word-formation session ([04_morphology-and-word-formation.md](mdc:04_morphology-and-word-formation.md))
+        - Structured content for a 90-minute session with a break.
+        - Incorporated material from previous course iterations.
+        - Added sections on corpus-based analysis of clippings, including theoretical background (Hilpert 2023), practical exercises with Sketch Engine and Excel, and further study options.
+
+# Quarto Workflow
+
+- Always preview changes to `.qmd` or `.md` files intended for Quarto output.
+- After previewing and confirming, render the file(s) to ensure output is up-to-date.
+- Stage, commit, and push all relevant source files and rendered output. 

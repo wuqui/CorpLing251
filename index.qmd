@@ -4,19 +4,19 @@ author: Quirin Würschinger, LMU Munich
 ---
 # Schedule
 
-| Date   | Topic                                                                         |
-| ------ | ----------------------------------------------------------------------------- |
-| 24.04. | [Organisation and introduction](01-organisation-and-introduction.md)          |
-| 01.05. | ---                                                                           |
-| 08.05. | [Sketch Engine](02-sketch-engine-concordancing-frequency.md)                  |
-| 15.05. | [Lexis: innovation and diffusion](03_lexis-innovation-diffusion-frequency.md) |
-| 22.05. | [Morphology and word-formation](04_morphology-and-word-formation.md)          |
-| 29.05. | ---                                                                           |
-| 05.06. | [Morphology: meaning analysis, collocations, word sketches](05_morphology-and-word-formation-2.md)                     |
-| 12.06. | Creating corpora: principles, practice (Sketch Engine)                        |
-| 19.06. | ---                                                                           |
-| 26.06. | Syntax: constructions, frequency analysis, CQL                                |
-| 03.07. | Research projects and term papers: planning & resources                       |
-| 10.07. | Linguistic variation: tag questions (Tottie 2006)                             |
-| 17.07. | Language change: modal verbs (Hilpert 2015)                                   |
-| 24.07. | Language change: lexical innovation, projects                                 |
+| Date   | Topic                                                                                              |
+| ------ | -------------------------------------------------------------------------------------------------- |
+| 24.04. | [Organisation and introduction](01-organisation-and-introduction.md)                               |
+| 01.05. | ---                                                                                                |
+| 08.05. | [Sketch Engine](02-sketch-engine-concordancing-frequency.md)                                       |
+| 15.05. | [Lexis: innovation and diffusion](03_lexis-innovation-diffusion-frequency.md)                      |
+| 22.05. | [Morphology and word-formation](04_morphology-and-word-formation.md)                               |
+| 29.05. | ---                                                                                                |
+| 05.06. | [Morphology: meaning analysis, collocations, word sketches](05_morphology-and-word-formation-2.md) |
+| 12.06. | Creating corpora: principles, practice                                                             |
+| 19.06. | ---                                                                                                |
+| 26.06. | Syntax: constructions, frequency analysis, CQL                                                     |
+| 03.07. | Research projects and term papers: planning & resources                                            |
+| 10.07. | Linguistic variation: tag questions (Tottie 2006)                                                  |
+| 17.07. | Language change: modal verbs (Hilpert 2015)                                                        |
+| 24.07. | Language change: lexical innovation, projects                                                      |
