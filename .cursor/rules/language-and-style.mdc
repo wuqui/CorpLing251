@@ -3,8 +3,11 @@ description: Rules for language, spelling, and prose style
 globs: 
 alwaysApply: false
 ---
+description: Rules for language, spelling, and prose style.
+
 # Language & Style
 
 - Use British English spellings (e.g. "optimisation", "colour")
 - Apply semantic line breaks in prose (break lines at natural clause/phrase boundaries)
 - Prefer curly quotes " " over straight quotes "
+- Use italics for publication titles (e.g., *A Christmas Carol*) instead of quotes.

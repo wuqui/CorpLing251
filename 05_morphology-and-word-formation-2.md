@@ -109,13 +109,16 @@ Differences in collocations for *cardio-vascular* vs *cardio*
 
 1. run a query for the source word or clipping (e.g. `[word="brother"]`)
    ![](att/image_1684831483384_0.png)
+
 2. click the collocation analysis icon
+
 3. configure:
-    - `1`: window range (words to the left/right)
-      ![](att/image_1684831570709_0.png)
-    - `2`: statistical measures
+	- ![](att/image_1684831570709_0.png)
+	- `1`: window range (words to the left/right)
+	- `2`: statistical measures
+
 4. interpret the results:
-   ![](att/image_1684832062090_0.png)
+	- ![](att/image_1684832062090_0.png)
 
 ## Word sketches
 
