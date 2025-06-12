@@ -13,7 +13,7 @@ author: Quirin Würschinger, LMU Munich
 | 22.05. | [Morphology and word-formation](04_morphology-and-word-formation.md)                               |
 | 29.05. | ---                                                                                                |
 | 05.06. | [Morphology: meaning analysis, collocations, word sketches](05_morphology-and-word-formation-2.md) |
-| 12.06. | Creating corpora: principles, practice                                                             |
+| 12.06. | [Creating corpora: principles, practice](06_creating-corpora-principles-practice.md)               |
 | 19.06. | ---                                                                                                |
 | 26.06. | Syntax: constructions, frequency analysis, CQL                                                     |
 | 03.07. | Research projects and term papers: planning & resources                                            |
