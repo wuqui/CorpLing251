@@ -101,7 +101,7 @@ Differences in collocations for *cardio-vascular* vs *cardio*
 
 - frequency by text type in *enTenTen21* or COCA
 - frequency over time in the *English Trends (2014–today)* corpus
-- long-term diachronic trends via [english-corpora.org](https://www.english-corpora.org): NOW, COCA
+- long-term diachronic trends via [english-corpora.org](https://www.english-corpora.org): NOW, COHA
 
 # Practice: semantic analysis with Sketch Engine
 
