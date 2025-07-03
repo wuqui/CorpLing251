@@ -15,8 +15,8 @@ author: Quirin Würschinger, LMU Munich
 | 05.06. | [Morphology: meaning analysis, collocations, word sketches](05_morphology-and-word-formation-2.md) |
 | 12.06. | [Creating corpora: principles, practice](06_creating-corpora-principles-practice.md)               |
 | 19.06. | ---                                                                                                |
-| 26.06. | [Syntax: constructions, frequency analysis, CQL](07-syntax.md)                                |
-| 03.07. | Research projects and term papers: planning & resources                                            |
+| 26.06. | [Syntax: constructions, frequency analysis, CQL](07-syntax.md)                                     |
+| 03.07. | [Research projects and term papers: planning & resources](08_research-projects-term-papers.md)      |
 | 10.07. | Linguistic variation: tag questions (Tottie 2006)                                                  |
 | 17.07. | Language change: modal verbs (Hilpert 2015)                                                        |
 | 24.07. | Language change: lexical innovation, projects                                                      |

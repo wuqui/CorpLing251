@@ -126,6 +126,34 @@
     "text": "2.3 From YouTube\n\nExample file: https://www.youtube.com/watch?v=E3U6MsdBalg\nConvert and download YouTube video as audio file (e.g. mp3) using a tool like Open Video Downloader.\nTranscribe audio file using a tool like Whisper (e.g., via HuggingFace or MacWhisper).\nCreate corpus by uploading your txt file(s).\nBrowse and analyse your transcripts."
   },
   {
+    "objectID": "08_research-projects-term-papers.html",
+    "href": "08_research-projects-term-papers.html",
+    "title": "Research projects and term papers: planning & resources",
+    "section": "",
+    "text": "Download PDF: Research projects session"
+  },
+  {
+    "objectID": "02-sketch-engine-concordancing-frequency.html",
+    "href": "02-sketch-engine-concordancing-frequency.html",
+    "title": "Sketch Engine, concordancing, frequency",
+    "section": "",
+    "text": "https://wuqui.github.io/SkEtut/"
+  },
+  {
+    "objectID": "02-sketch-engine-concordancing-frequency.html#concordancing",
+    "href": "02-sketch-engine-concordancing-frequency.html#concordancing",
+    "title": "Sketch Engine, concordancing, frequency",
+    "section": "2.1 Concordancing",
+    "text": "2.1 Concordancing\nin the enTenTen21 corpus\n\nSearch for attestations of the word smartphone.\n\n\n\nSearch for attestations of the pattern ADJ + SMARTPHONE (i.e. the lemmatized word type (new smartphone, old smartphones)).\n\n\n\nSearch for attestations of the pattern TAKE a LOOK (e.g. take a look, takes a look)."
+  },
+  {
+    "objectID": "02-sketch-engine-concordancing-frequency.html#frequency-analysis",
+    "href": "02-sketch-engine-concordancing-frequency.html#frequency-analysis",
+    "title": "Sketch Engine, concordancing, frequency",
+    "section": "2.2 Frequency analysis",
+    "text": "2.2 Frequency analysis\n\nIn the enTenTen21 corpus, identify the most common adjectives in the pattern ADJ SMARTPHONE.\n\n\nhttps://ske.li/8fy\n\nIdentify which words have exhibited the highest increase in usage frequency by using the Trends feature in the English Historical Book Collection (EEBO, ECCO, Evans) corpus.\n\n\nNote that the trends feature is also available for more recent data with the English Trends (2014–today) corpus.\n\n\n\nGet an overview of the frequency increase of the word which has shown the most positive trend."
+  },
+  {
     "objectID": "04_morphology-and-word-formation.html",
     "href": "04_morphology-and-word-formation.html",
     "title": "Morphology and word-formation",
@@ -194,27 +222,6 @@
     "title": "Morphology and word-formation",
     "section": "6.2 Studying semantics using word sketches",
     "text": "6.2 Studying semantics using word sketches\n\n6.2.1 Word sketch for single forms\n\nGenerate a word sketch (e.g., for bro).\n\n\n\nSpecify word class if necessary.\n\n\nResults provide syntactic contexts:\n\n\n\nVisualise results using the built-in tool.\n\n\n\n\n\n\n\n\n6.2.2 Word sketch comparison\n\nCompare the source word (e.g., brother) with the clipped form (e.g., bro).\n\nRun comparison:\n\n\n\nSpecify word class.\n\n\nResults show shared and unique collocates/contexts:\n\n\n\nInspect collocations in detail:\n\n\nResults might reveal specific semantic nuances or homonymy (e.g., BrO for Hypobromite).\n\n\n\n\n\n\n\n\n6.2.3 Guiding questions for analysis\n\nWhat is the general semantic signature of the source word?\nWhat is the general semantic signature of the clipped form?\nIn what ways do they differ semantically (e.g., stylistic or social characteristics, formality)?\nDo they tend to be used in different contexts (syntagmatic profile) even if their core denotational meaning is similar?\nDoes the clipped form have a more narrow or specific scope of meaning?"
-  },
-  {
-    "objectID": "02-sketch-engine-concordancing-frequency.html",
-    "href": "02-sketch-engine-concordancing-frequency.html",
-    "title": "Sketch Engine, concordancing, frequency",
-    "section": "",
-    "text": "https://wuqui.github.io/SkEtut/"
-  },
-  {
-    "objectID": "02-sketch-engine-concordancing-frequency.html#concordancing",
-    "href": "02-sketch-engine-concordancing-frequency.html#concordancing",
-    "title": "Sketch Engine, concordancing, frequency",
-    "section": "2.1 Concordancing",
-    "text": "2.1 Concordancing\nin the enTenTen21 corpus\n\nSearch for attestations of the word smartphone.\n\n\n\nSearch for attestations of the pattern ADJ + SMARTPHONE (i.e. the lemmatized word type (new smartphone, old smartphones)).\n\n\n\nSearch for attestations of the pattern TAKE a LOOK (e.g. take a look, takes a look)."
-  },
-  {
-    "objectID": "02-sketch-engine-concordancing-frequency.html#frequency-analysis",
-    "href": "02-sketch-engine-concordancing-frequency.html#frequency-analysis",
-    "title": "Sketch Engine, concordancing, frequency",
-    "section": "2.2 Frequency analysis",
-    "text": "2.2 Frequency analysis\n\nIn the enTenTen21 corpus, identify the most common adjectives in the pattern ADJ SMARTPHONE.\n\n\nhttps://ske.li/8fy\n\nIdentify which words have exhibited the highest increase in usage frequency by using the Trends feature in the English Historical Book Collection (EEBO, ECCO, Evans) corpus.\n\n\nNote that the trends feature is also available for more recent data with the English Trends (2014–today) corpus.\n\n\n\nGet an overview of the frequency increase of the word which has shown the most positive trend."
   },
   {
     "objectID": "01-organisation-and-introduction.html",
